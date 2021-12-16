@@ -1,0 +1,16 @@
+Aquí van los apuntes de Sistemas Informáticos, la asignatura del primer curso del CFGS de DAM 
+
+
+                  ÍNDICE 
+-----------------------------------------------------------------
+
+- UT1:Explotación de Sistemas Informáticos
+
+	Tema 1: Componentes Físicos de los Sistemas Informátivos 
+	Tema 2: Sistemas de Numeración
+	Tema 3: Sistemas en Red
+	Tema 4: Seguridad en el Montaje de Redes
+
+- UT2:Sistemas Operativos
+
+	Tema 5: Sistemas Operativos 
